@@ -1,0 +1,1 @@
+# seam-studio-privacy
